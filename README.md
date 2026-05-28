@@ -1,6 +1,6 @@
 # [Project Title]
 
-### [Institution], Sudan – [Year]
+## [Institution], Sudan – [Year]
 
 **Study type:** [e.g. Cross-sectional descriptive study]
 **Degree level:** MBBS
@@ -56,7 +56,7 @@ deviations
 
 ## Repository Structure
 
-```
+```text
 project-name/
 │
 ├── README.md
@@ -113,4 +113,4 @@ project-name/
 
 ---
 
-*Data analyst: Abdulrahman Sirelkhatim | Analysis conducted [Month Year]*
+**Data analyst:** Abdulrahman Sirelkhatim | Analysis conducted [Month Year]
