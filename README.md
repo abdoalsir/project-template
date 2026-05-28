@@ -3,9 +3,13 @@
 ## [Institution], Sudan – [Year]
 
 **Study type:** [e.g. Cross-sectional descriptive study]
+
 **Degree level:** MBBS
+
 **Institution:** [Faculty and University]
+
 **Sample size:** N = [X] [population]
+
 **Data analyst:** Abdulrahman Sirelkhatim
 
 ---
@@ -51,8 +55,8 @@ deviations
 
 | File | Description |
 |------|-------------|
-| `data/raw/` | Raw survey responses — excluded from version control (privacy) |
-| `data/cleaned/` | Cleaned and recoded dataset |
+| `1_data/raw/` | Raw survey responses — excluded from version control (privacy) |
+| `1_data/cleaned/` | Cleaned and recoded dataset |
 
 ## Repository Structure
 
@@ -63,6 +67,7 @@ project-name/
 ├── .gitignore
 ├── .ls-lint.yml
 ├── .markdownlint.yml
+├── .markdownlintignore
 │
 ├── .github/
 │   └── workflows/
