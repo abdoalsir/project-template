@@ -15,7 +15,7 @@ venv/
 Thumbs.db
 
 # Data — raw data excluded from version control (privacy)
-data/raw/
+1_data/raw/
 
 # SPSS
 *.spv
