@@ -118,4 +118,4 @@ project-name/
 
 ---
 
-**Data analyst:** Abdulrahman Sirelkhatim | Analysis conducted [Month Year]
+**Data analyst:** *Abdulrahman Sirelkhatim | Analysis conducted [Month Year]*
